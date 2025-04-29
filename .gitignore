@@ -20,3 +20,8 @@ Thumbs.db
 *.log
 *.pot
 *.pyc
+
+# Ignore Google Cloud credentials
+media/google_credentials/*.json
+*credentials*.json
+*.pem
